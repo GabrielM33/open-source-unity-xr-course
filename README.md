@@ -1,6 +1,6 @@
 # Open Source Unity XR Course
 
-Explore this curated list of free courses and content from reputable sources to learn the fundamentals of XR development using Unity and C# and prepare for this emerging industry. 
+Explore this curated list of free courses and content from reputable sources to learn the fundamentals of XR development using Unity and C# and, prepare for this emerging industry. 
 
 While you can skip stages based on your current knowledge, starting from the beginning is highly recommended.
 
